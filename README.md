@@ -1,2 +1,2 @@
 # Library
-Include every important libraries
+Include every important libraries useful in every projects
